@@ -4,10 +4,10 @@ Homeverse - Find your dream house
 # HEADER
 
 <ion-icon name="mail-outline"></ion-icon>
-info@homeverse.com
+bonniemasota@gmail.com
 
 <ion-icon name="location-outline"></ion-icon>
-15/A, Nest Tower, NYC
+Thika,kiambu,kenya
 
 <ion-icon name="logo-facebook"></ion-icon>
 <ion-icon name="logo-twitter"></ion-icon>
@@ -77,8 +77,8 @@ Beatiful home design
 <ion-icon name="leaf-outline"></ion-icon>
 Beautiful Scene Around
 
-<ion-icon name="wine-outline"></ion-icon>
-Exceptional Lifestyle
+<ion-icon name="business-outline"></ion-icon>
+Pet friendly
 
 <ion-icon name="shield-checkmark-outline"></ion-icon>
 Complete 24/7 Security
@@ -258,20 +258,20 @@ alt = Homeverse logo
 Lorem Ipsum is simply dummy text of the and typesetting industry. Lorem Ipsum is dummy text of the printing.
 
 <ion-icon name="location-outline"></ion-icon>
-Brooklyn, New York, United States
+Thika,kiambu,kenya
 
 <ion-icon name="call-outline"></ion-icon>
-+0123-456789
++254-722218106
 
 <ion-icon name="mail-outline"></ion-icon>
-contact@homeverse.com
+bonniemasota@gmail.com
 
 <ion-icon name="logo-facebook"></ion-icon>
 <ion-icon name="logo-twitter"></ion-icon>
 <ion-icon name="logo-linkedin"></ion-icon>
 <ion-icon name="logo-youtube"></ion-icon>
 
-Company
+Kibabu
 
 About
 Blog
