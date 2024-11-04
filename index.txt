@@ -1,4 +1,4 @@
-Homeverse - Find your dream house
+Homeverse - Find your dream home
 
 
 # HEADER
@@ -51,7 +51,7 @@ Menu
 <ion-icon name="home"></ion-icon>
 Real Estate 
 
-Find Your Dream House By Us
+Find Your dream home By Us
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.
 
@@ -75,7 +75,7 @@ Over 39,000 people work for us in more than 70 countries all over the This bread
 Beatiful home design
 
 <ion-icon name="leaf-outline"></ion-icon>
-Beautiful Scene Around
+High Standard Cleanliness
 
 <ion-icon name="business-outline"></ion-icon>
 Pet friendly

@@ -621,8 +621,19 @@ button, a { transition: var(--transition); }
   align-items: center;
   gap: 5px;
 }
+.property-card .card-link {
+  color: var(--opal);
+  font-size: var(--fs-5);
+  font-weight: var(--fw-600);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+}
 
 .service-card:is(:hover, :focus) .card-link { color: var(--orange-soda); }
+.property-card:is(:hover, :focus) .card-link { color: var(--orange-soda); }
+
 
 .service-card::after {
   content: "";
