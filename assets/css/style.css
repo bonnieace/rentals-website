@@ -1595,7 +1595,6 @@ button, a { transition: var(--transition); }
   }
 
   .header.active .header-bottom {
-    position: fixed;
     bottom: auto;
     top: -94px;
     padding-block: 20px;
